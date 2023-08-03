@@ -1,0 +1,30 @@
+Z:\c# с ноута\Maze (1)\Maze\Maze\bin\Release\net6.0\Maze.exe
+Z:\c# с ноута\Maze (1)\Maze\Maze\bin\Release\net6.0\Maze.deps.json
+Z:\c# с ноута\Maze (1)\Maze\Maze\bin\Release\net6.0\Maze.runtimeconfig.json
+Z:\c# с ноута\Maze (1)\Maze\Maze\bin\Release\net6.0\Maze.dll
+Z:\c# с ноута\Maze (1)\Maze\Maze\bin\Release\net6.0\Maze.pdb
+Z:\c# с ноута\Maze (1)\Maze\Maze\obj\Release\net6.0\Maze.csproj.AssemblyReference.cache
+Z:\c# с ноута\Maze (1)\Maze\Maze\obj\Release\net6.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+Z:\c# с ноута\Maze (1)\Maze\Maze\obj\Release\net6.0\Maze.AssemblyInfoInputs.cache
+Z:\c# с ноута\Maze (1)\Maze\Maze\obj\Release\net6.0\Maze.AssemblyInfo.cs
+Z:\c# с ноута\Maze (1)\Maze\Maze\obj\Release\net6.0\Maze.csproj.CoreCompileInputs.cache
+Z:\c# с ноута\Maze (1)\Maze\Maze\obj\Release\net6.0\Maze.dll
+Z:\c# с ноута\Maze (1)\Maze\Maze\obj\Release\net6.0\refint\Maze.dll
+Z:\c# с ноута\Maze (1)\Maze\Maze\obj\Release\net6.0\Maze.pdb
+Z:\c# с ноута\Maze (1)\Maze\Maze\obj\Release\net6.0\Maze.genruntimeconfig.cache
+Z:\c# с ноута\Maze (1)\Maze\Maze\obj\Release\net6.0\ref\Maze.dll
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\bin\Release\net6.0\Maze.exe
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\bin\Release\net6.0\Maze.deps.json
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\bin\Release\net6.0\Maze.runtimeconfig.json
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\bin\Release\net6.0\Maze.dll
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\bin\Release\net6.0\Maze.pdb
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\obj\Release\net6.0\Maze.csproj.AssemblyReference.cache
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\obj\Release\net6.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\obj\Release\net6.0\Maze.AssemblyInfoInputs.cache
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\obj\Release\net6.0\Maze.AssemblyInfo.cs
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\obj\Release\net6.0\Maze.csproj.CoreCompileInputs.cache
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\obj\Release\net6.0\Maze.dll
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\obj\Release\net6.0\refint\Maze.dll
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\obj\Release\net6.0\Maze.pdb
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\obj\Release\net6.0\Maze.genruntimeconfig.cache
+C:\Users\Elsarion\Desktop\Новая папка\Maze\Maze\obj\Release\net6.0\ref\Maze.dll

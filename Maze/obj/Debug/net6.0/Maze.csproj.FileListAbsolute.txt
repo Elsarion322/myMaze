@@ -1,0 +1,15 @@
+D:\C#\Maze\Maze\obj\Debug\net6.0\Maze.csproj.AssemblyReference.cache
+D:\C#\Maze\Maze\obj\Debug\net6.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Maze\Maze\obj\Debug\net6.0\Maze.AssemblyInfoInputs.cache
+D:\C#\Maze\Maze\obj\Debug\net6.0\Maze.AssemblyInfo.cs
+D:\C#\Maze\Maze\obj\Debug\net6.0\Maze.csproj.CoreCompileInputs.cache
+D:\C#\Maze\Maze\bin\Debug\net6.0\Maze.exe
+D:\C#\Maze\Maze\bin\Debug\net6.0\Maze.deps.json
+D:\C#\Maze\Maze\bin\Debug\net6.0\Maze.runtimeconfig.json
+D:\C#\Maze\Maze\bin\Debug\net6.0\Maze.dll
+D:\C#\Maze\Maze\bin\Debug\net6.0\Maze.pdb
+D:\C#\Maze\Maze\obj\Debug\net6.0\Maze.dll
+D:\C#\Maze\Maze\obj\Debug\net6.0\refint\Maze.dll
+D:\C#\Maze\Maze\obj\Debug\net6.0\Maze.pdb
+D:\C#\Maze\Maze\obj\Debug\net6.0\Maze.genruntimeconfig.cache
+D:\C#\Maze\Maze\obj\Debug\net6.0\ref\Maze.dll
